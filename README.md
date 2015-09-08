@@ -1,7 +1,7 @@
 # payu_integration
 =======================
+#### How to start working with repository
 
-#### work with Repository
 1. Clone the repository using following url
 
     `git@github.com:tnishank/payu_integration.git`
